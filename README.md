@@ -1,9 +1,9 @@
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Aspiring Data Science Engineer</h1>
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h2 align="left">👩‍🎓 About Me</h2>
 
 ###
 
@@ -37,12 +37,3 @@
 <h2 align="left">Personal Wellness</h2>
 <p align="left">I'm an active Indian Classical Dancer. I admire multi-cultural fests and events to spearhed peers to unleash their inner soul's desire.<br>
   
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
