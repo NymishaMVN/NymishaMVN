@@ -1,39 +1,106 @@
+# 👋 Hi, I'm Nymisha Munjuluri  
 
-<h1 align="center">Aspiring Data Science Engineer</h1>
+**Data Analyst | Cloud Analytics | Business Intelligence & AI**  
 
-###
+I’m a **Data Analyst with 3+ years of experience** turning raw data into meaningful insights through **data analysis, visualization, automation, and cloud-based analytics**.  
+My work spans **banking, academic analytics, and business operations**, where I’ve built scalable dashboards, optimized SQL pipelines, and supported data-driven decision-making across teams.
 
-<h2 align="left">👩‍🎓 About Me</h2>
+I enjoy working at the intersection of **data, business, and technology** — transforming complex datasets into clear, actionable intelligence.
 
-###
+---
 
-<p align="left">I'm Actively working toward a Master of Professional Studies in Data Science from UMBC.<br><br>- 🔭 I’m Expertized at developing & implementing machine learning models using neural networks, supervised and unsupervised learning methods, and natural language processing approaches. <br>- 📚 I'm currently learning Large Language Models and exploring AI to dive deep into Big Data.<br>- ⚡ In my free time I read newsletters and actively browse big tech workshops to explore in-depth industrial knowledge.</p>
+## 🚀 Tech Stack & Skills  
 
+### 💻 Programming & Data Analysis  
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Boto3  
+- **SQL:** MySQL, SQL Server (query optimization, automation, stored procedures)  
+- **Excel:** Advanced formulas, Pivot Tables, automation  
 
-<h2 align="left">Work Experience</h2>
-<p align="left"> Worked as a Data Analyst Intern during my bachelors, Leveraged adhoc analysis and data manipulation tools in-order to acheive behavioural analysis on 1,000+ customer interactions, identifying key trends that led to a 20% increase in sales conversions through real-time intent classification and response optimization. <br>
-  
-<h3 align="left">🛠 Language and tools</h3>
+### ☁️ Cloud Platforms  
+- **AWS:** S3, Redshift, Glue, Lambda, EC2, SageMaker, Bedrock, Textract, Comprehend, Rekognition, Translate, Lex  
+- **GCP:** BigQuery, Vertex AI, Google Analytics (GA4)  
+- **Azure:** Synapse Analytics, Data Factory  
 
-###
+### 🔄 Data Engineering & Integration  
+- ETL / ELT Pipelines (SQL & Python)  
+- AWS Glue, Fivetran, Matillion, Talend  
+- Dataiku DSS, Alteryx  
+- Automated reporting & monitoring workflows  
 
-<div align="left">
-  
+### 🧠 Machine Learning & Analytics  
+- Predictive Modeling & Classification  
+- Fraud Detection & Risk Analytics  
+- Customer Segmentation & Demand Forecasting  
+- A/B Testing & Experimental Design  
+- scikit-learn, TensorFlow, PyTorch  
+
+### 📊 Visualization & BI  
+- Tableau (interactive & parameterized dashboards)  
+- Power BI  
+- Exploratory Data Analysis (EDA)  
+- Dashboard performance optimization  
+
+---
+
+## 💼 Professional Experience  
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+
+---
+
+### 🏦 Data Analyst — **IBM**  
+*Jan 2022 – Jul 2024 | India*  
+
+- Analyzed **large-scale banking operations and customer behavior data** to identify risk, fraud, and process gaps  
+- Supported **risk mitigation and operational efficiency** initiatives through data-driven insights  
+- Led migration of **Currency Transaction Reporting** from BAM to Mantas, supporting 100+ users  
+- Optimized SQL queries, stored procedures, and triggers — improving data retrieval performance by **50%**  
+- Developed **advanced Tableau dashboards** with drill-downs and parameterized views for leadership reporting  
+
+---
+
+## 📂 Academic & Technical Projects  
+
+### 🖼 Image Classification on Azure  
+- Built and deployed a **CNN-based image classifier** using the Places365 dataset  
+- Achieved **80% real-time accuracy**, handling **10K+ image requests/day**  
+- Implemented using **Azure Databricks, TensorFlow, MLflow, and Azure ML**  
+
+---
+
+### 📈 Stock Price Prediction using LSTM & GRU  
+- Modeled short-term stock prices for **5 companies** using Yahoo Finance data  
+- Achieved **99% prediction accuracy** with **15% lower error** than baseline models  
+- Improved decision support for **risk management and investment analysis**  
+
+---
+
+### 👁 Early Detection of Diabetic Retinopathy  
+- Developed a deep learning system to **detect and grade diabetic retinopathy**  
+- Achieved **95%+ accuracy** using CNNs and ensemble learning  
+- Applied imbalance-aware training techniques for medical imaging data  
+
+---
+
+## 🎯 Currently Exploring  
+- Advanced **cloud analytics & data engineering** patterns  
+- **GenAI applications** using AWS Bedrock & Vertex AI  
+- Improving **dashboard storytelling** for business stakeholders  
+
+---
+
+## 📜 Certifications  
+- 🏅 Google Advanced Analytics Professional Certificate  
+- ☁️ AWS Certified Cloud Practitioner  
+
+---
+
+## 📫 Let’s Connect  
+
+- 📧 **Email:** nymishamvn@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/nymisha-munjuluri](https://www.linkedin.com/in/nymisha-munjuluri/)  
+- 💻 **GitHub:** https://github.com/nymishamvn
   
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+---
 
-###
-
-<h2 align="left">Personal Wellness</h2>
-<p align="left">I'm an active Indian Classical Dancer. I admire multi-cultural fests and events to spearhed peers to unleash their inner soul's desire.<br>
-  
+> *“Data becomes powerful when it’s accurate, accessible, and actionable.”*
