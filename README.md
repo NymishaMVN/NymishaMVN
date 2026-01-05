@@ -2,10 +2,10 @@
 
 **Data Analyst | Cloud Analytics | Business Intelligence & AI**  
 
-I’m a **Data Analyst with 3+ years of experience** turning raw data into meaningful insights through **data analysis, visualization, automation, and cloud-based analytics**.  
+I’m a **Data Analyst with 3 years of experience** turning raw data into meaningful insights through **data analysis, visualization, automation, and cloud-based analytics**.  
 My work spans **banking, academic analytics, and business operations**, where I’ve built scalable dashboards, optimized SQL pipelines, and supported data-driven decision-making across teams.
 
-I enjoy working at the intersection of **data, business, and technology** — transforming complex datasets into clear, actionable intelligence.
+I enjoy working at the intersection of **data, business, and technology** transforming complex datasets into clear, actionable intelligence.
 
 ---
 
@@ -50,11 +50,21 @@ I enjoy working at the intersection of **data, business, and technology** — tr
 ### 🏦 Data Analyst — **IBM**  
 *Jan 2022 – Jul 2024 | India*  
 
-- Analyzed **large-scale banking operations and customer behavior data** to identify risk, fraud, and process gaps  
-- Supported **risk mitigation and operational efficiency** initiatives through data-driven insights  
-- Led migration of **Currency Transaction Reporting** from BAM to Mantas, supporting 100+ users  
-- Optimized SQL queries, stored procedures, and triggers — improving data retrieval performance by **50%**  
-- Developed **advanced Tableau dashboards** with drill-downs and parameterized views for leadership reporting  
+- Collected, analyzed, and interpreted large-scale banking operations and customer behavior datasets to uncover risk indicators, behavioral 
+patterns, growth opportunities, and potential fraudulent activity. 
+- Applied statistical analysis and data validation techniques to support regulatory compliance, fraud prevention, and risk management 
+initiatives. 
+- Collaborated closely with cross-functional teams including Compliance, Operations, and Technology to design and implement data-driven 
+strategies that improved risk mitigation and operational efficiency.
+- Led the end-to-end transition of Currency Transaction Reporting (CTR) from BAM to Mantas, managing batch processing, system 
+integration, and parallel run validation. 
+- Ensured a smooth system adoption for 100+ end users by coordinating testing, issue resolution, documentation, and stakeholder training. 
+- Designed and optimized complex SQL queries, stored procedures, and triggers, improving data retrieval performance by approximately 
+50%. 
+- Implemented post-ETL data quality checks and governance controls to ensure accuracy, consistency, and regulatory readiness across 
+reporting systems. 
+- Delivered advanced Tableau dashboards and interactive visualizations with drill-down capabilities and parameterized reports to support 
+executive decision-making and business initiatives. 
 
 ---
 
