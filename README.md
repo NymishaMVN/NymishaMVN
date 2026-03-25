@@ -7,17 +7,17 @@ Data Engineer with 3+ years of experience specializing in the extraction, mappin
 
 ## 🚀 Tech Stack & Skills  
 
-# Languages & Frameworks
+## Languages & Frameworks
 - Python (Pandas, NumPy, Scikit-learn)
 - SQL (T-SQL, PL/SQL)
 - PySpark
 - PowerShell 
-# ETL & Data Engineering
+## ETL & Data Engineering
 - Microsoft Azure Synapse Analytics
 -  Azure Data Factory (ADF)
 -  Azure Data Lake
 -  Azure SQL Database
-# Orchestration & Automation:
+## Orchestration & Automation:
 - Azure Logic Apps
 - Azure Functions (Serverless)
 - Control-M, CI/CD pipeline
@@ -27,21 +27,21 @@ Data Engineer with 3+ years of experience specializing in the extraction, mappin
 - Terraform
 - DevOps
 -  Git
-# Data Modeling & Governance
+## Data Modeling & Governance
 - Azure Purview for data lineage
 - role-based access control (RBAC)
 - HIPAA/HITRUST data encryption 
-# Visualization
+## Visualization
 - Power BI
 - Tableau
 - DAX
 - parameterized and role-based dashboards
-# Statistical Modeling
+## Statistical Modeling
 - Root cause analysis
 - hypothesis testing
 - population health risk stratification
 - anomaly detection
-# Cloud & DB
+## Cloud & DB
 - Azure
 - IBM
 - Amazon Redshift
