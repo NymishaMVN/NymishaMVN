@@ -59,7 +59,7 @@ Data Engineer with 3+ years of experience specializing in the extraction, mappin
 
 ---
 
-## Graduate Data Analyst | UMBC, MD, USA                                                                                                                                       Jan 2025 - Present##
+## Graduate Data Analyst | UMBC, MD, USA                                                                                                                                       Jan 2025 - Present ##
 - Interfaced directly with academic departmental heads to capture nuanced data distribution requirements, subsequently translating those research goals into technical logic for automated extraction pipelines using Azure Databricks and PySpark to handle high-velocity academic datasets.
 - Executed granular data mapping across disparate institutional sources, including student enrollment systems and clinical research databases, to ensure that all data landing in Azure Data Lake Storage Gen2 remained compliant with institutional audit standards and federal reporting mandates.
 - Architected and tuned complex SQL-based views within Azure Synapse Analytics to optimize the distribution of large-scale datasets, which significantly decreased the compute time required for monthly institutional extracts while enforcing strict role-based access controls.
