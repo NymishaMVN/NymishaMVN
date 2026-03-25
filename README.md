@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nymisha Munjuluri  
 
  ## Data Engineer | Analytics & Reporting| Data Science Graduate ##
-## Data Engineer with 3+ years of experience specializing in the extraction, mapping, and delivery of complex healthcare and academic datasets within the Microsoft Azure ecosystem. Proven expert in translating abstract business requirements into high-performance Azure Synapse and Databricks pipelines, specifically across Membership, Claims, and Provider domains. Proficient in Power BI for executive-level KPI tracking and committed to process enhancement through the automation of manual SQL and PySpark extraction workflows. Earned recognition through multiple advanced cloud certifications, including credentials in Azure Certified AI Engineer Associate, Google Certified Advanced Analytics Professional, Snowflake SnowPro Professional – Data Warehousing demonstrating broad technical and analytical expertise. ###
+Data Engineer with 3+ years of experience specializing in the extraction, mapping, and delivery of complex healthcare and academic datasets within the Microsoft Azure ecosystem. Proven expert in translating abstract business requirements into high-performance Azure Synapse and Databricks pipelines, specifically across Membership, Claims, and Provider domains. Proficient in Power BI for executive-level KPI tracking and committed to process enhancement through the automation of manual SQL and PySpark extraction workflows. Earned recognition through multiple advanced cloud certifications, including credentials in Azure Certified AI Engineer Associate, Google Certified Advanced Analytics Professional, Snowflake SnowPro Professional – Data Warehousing demonstrating broad technical and analytical expertise.
 
 ---
 
