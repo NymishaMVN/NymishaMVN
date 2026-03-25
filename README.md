@@ -7,34 +7,14 @@ Data Engineer with 3+ years of experience specializing in the extraction, mappin
 
 ## 🚀 Tech Stack & Skills  
 
-### 💻 Programming & Data Analysis  
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Boto3  
-- **SQL:** MySQL, SQL Server (query optimization, automation, stored procedures)  
-- **Excel:** Advanced formulas, Pivot Tables, automation  
+## Languages & Frameworks: Python (Pandas, NumPy, Scikit-learn), SQL (T-SQL, PL/SQL), PySpark, and PowerShell 
+## ETL & Data Engineering: Microsoft Azure, Synapse Analytics, Azure Data Factory (ADF), Azure Data Lake, Azure SQL Database
+## Orchestration & Automation: Azure Logic Apps, Azure Functions (Serverless), Control-M, CI/CD pipeline, Kubernetes, Docker, Airflow, Terraform, DevOps, Git
+## Data Modeling & Governance: Azure Purview for data lineage, role-based access control (RBAC), HIPAA/HITRUST data encryption 
+## Visualization: Power BI, Tableau, DAX, parameterized and role-based dashboards
+## Statistical Modeling: Root cause analysis, hypothesis testing, population health risk stratification, and anomaly detection
+## Cloud & DB: Azure, IBM, Amazon Redshift, Snowflake, Azure SQL Database, SQL Server, AWS, GCP
 
-### ☁️ Cloud Platforms  
-- **AWS:** S3, Redshift, Glue, Lambda, EC2, SageMaker, Bedrock, Textract, Comprehend, Rekognition, Translate, Lex  
-- **GCP:** BigQuery, Vertex AI, Google Analytics (GA4)  
-- **Azure:** Synapse Analytics, Data Factory  
-
-### 🔄 Data Engineering & Integration  
-- ETL / ELT Pipelines (SQL & Python)  
-- AWS Glue, Fivetran, Matillion, Talend  
-- Dataiku DSS, Alteryx  
-- Automated reporting & monitoring workflows  
-
-### 🧠 Machine Learning & Analytics  
-- Predictive Modeling & Classification  
-- Fraud Detection & Risk Analytics  
-- Customer Segmentation & Demand Forecasting  
-- A/B Testing & Experimental Design  
-- scikit-learn, TensorFlow, PyTorch  
-
-### 📊 Visualization & BI  
-- Tableau (interactive & parameterized dashboards)  
-- Power BI  
-- Exploratory Data Analysis (EDA)  
-- Dashboard performance optimization  
 
 ---
 
