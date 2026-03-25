@@ -7,13 +7,13 @@ Data Engineer with 3+ years of experience specializing in the extraction, mappin
 
 ## 🚀 Tech Stack & Skills  
 
-## Languages & Frameworks: Python (Pandas, NumPy, Scikit-learn), SQL (T-SQL, PL/SQL), PySpark, and PowerShell 
-## ETL & Data Engineering: Microsoft Azure, Synapse Analytics, Azure Data Factory (ADF), Azure Data Lake, Azure SQL Database
-## Orchestration & Automation: Azure Logic Apps, Azure Functions (Serverless), Control-M, CI/CD pipeline, Kubernetes, Docker, Airflow, Terraform, DevOps, Git
-## Data Modeling & Governance: Azure Purview for data lineage, role-based access control (RBAC), HIPAA/HITRUST data encryption 
-## Visualization: Power BI, Tableau, DAX, parameterized and role-based dashboards
-## Statistical Modeling: Root cause analysis, hypothesis testing, population health risk stratification, and anomaly detection
-## Cloud & DB: Azure, IBM, Amazon Redshift, Snowflake, Azure SQL Database, SQL Server, AWS, GCP
+# Languages & Frameworks: Python (Pandas, NumPy, Scikit-learn), SQL (T-SQL, PL/SQL), PySpark, and PowerShell 
+# ETL & Data Engineering: Microsoft Azure, Synapse Analytics, Azure Data Factory (ADF), Azure Data Lake, Azure SQL Database
+# Orchestration & Automation: Azure Logic Apps, Azure Functions (Serverless), Control-M, CI/CD pipeline, Kubernetes, Docker, Airflow, Terraform, DevOps, Git
+# Data Modeling & Governance: Azure Purview for data lineage, role-based access control (RBAC), HIPAA/HITRUST data encryption 
+# Visualization: Power BI, Tableau, DAX, parameterized and role-based dashboards
+# Statistical Modeling: Root cause analysis, hypothesis testing, population health risk stratification, and anomaly detection
+# Cloud & DB: Azure, IBM, Amazon Redshift, Snowflake, Azure SQL Database, SQL Server, AWS, GCP
 
 
 ---
